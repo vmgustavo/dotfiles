@@ -6,9 +6,9 @@
 
 * On Ubuntu: `sudo apt install plank`
 
-## Theme
+## Setup
 
-* Copy theme dir to `~/.local/share/plank/themes/`
+* Copy `theme/` to `~/.local/share/plank/themes/`
 
 ## Usefull Links
 * [A Guide To Using Plank Dock On Linux](https://www.linuxuprising.com/2019/12/a-guide-to-using-plank-dock-on-linux.html)

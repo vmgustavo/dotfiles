@@ -1,0 +1,214 @@
+.xfce4-panel {
+    background-color: #2F343F;
+    color: #2F343F;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/*Applications Button*/
+
+#whiskermenu-button {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 4px;
+}
+
+#whiskermenu-button:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#whiskermenu-button:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+/*Power Manager*/
+
+#xfce4-power-manager-plugin {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 4px;
+}
+
+#xfce4-power-manager-plugin:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#xfce4-power-manager-plugin:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+/*SysTray*/
+#sn-button {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#sn-button:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#sn-button:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+/*Notification*/
+#xfce4-notification-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
+
+#xfce4-notification-plugin {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 4px;
+}
+
+#xfce4-notification-plugin:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#xfce4-notification-plugin:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+/*Clock*/
+
+#clock-button {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 4px;
+}
+
+#clock-button:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#clock-button:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+/*Sound*/
+
+#pulseaudio-button {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 4px;
+}
+
+#pulseaudio-button:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#pulseaudio-button:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+/*Workspace Switcher*/
+
+#pager-11 #xfce-panel-toggle-button:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 4px;
+}
+
+#pager-11 #xfce-panel-toggle-button:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#pager-11 #xfce-panel-toggle-button {
+    background-color: #454C5A;
+    color: #ffffff;
+}
+
+/*Files*/
+
+#launcher-5 #launcher-arrow {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 4px;
+    margin-bottom:4px;
+}
+
+#launcher-5 #launcher-arrow:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#launcher-5 #launcher-arrow:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+/*Terminal*/
+
+#launcher-6 #launcher-arrow {
+    background-color: #454C5A;
+    color: #ffffff;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 4px;
+    margin-bottom:4px;
+}
+
+#launcher-6 #launcher-arrow:checked {
+    background-color: #5294E2;
+    color: #ffffff;
+}
+
+#launcher-6 #launcher-arrow:hover {
+    background-color: #5294E2;
+    color: #ffffff;
+}
