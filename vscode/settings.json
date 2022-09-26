@@ -1,0 +1,31 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.rulers": [80, 120],
+    "editor.renderWhitespace": "all",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.hovers.enabled": false,
+
+    "markdown.marp.enableHtml": true,
+
+    "git.autofetch": true,
+    "git.confirmSync": false,
+
+    "editor.minimap.enabled": false,
+    "gitlens.views.branches.branches.layout": "list",
+
+    "workbench.colorCustomizations": {
+        "gitDecoration.addedResourceForeground": "#629755",
+        "gitDecoration.modifiedResourceForeground": "#6897BB",
+        "gitDecoration.deletedResourceForeground": "#6C6C6C",
+        "gitDecoration.renamedResourceForeground": "#3A8484",
+        "gitDecoration.untrackedResourceForeground": "#D1675A",
+        "gitDecoration.ignoredResourceForeground": "#85850467",
+    },
+    "explorer.confirmDelete": false,
+    "explorer.sortOrder": "type",
+    "quarto.mathjax.theme": "dark"
+}

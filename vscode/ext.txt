@@ -1,0 +1,14 @@
+buenon.scratchpads
+eamodio.gitlens
+marp-team.marp-vscode
+ms-azuretools.vscode-docker
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+PKief.material-icon-theme
+quarto.quarto
+tomoki1207.pdf
