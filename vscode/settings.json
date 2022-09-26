@@ -23,7 +23,7 @@
         "gitDecoration.deletedResourceForeground": "#6C6C6C",
         "gitDecoration.renamedResourceForeground": "#3A8484",
         "gitDecoration.untrackedResourceForeground": "#D1675A",
-        "gitDecoration.ignoredResourceForeground": "#85850467",
+        "gitDecoration.ignoredResourceForeground": "#85850467"
     },
     "explorer.confirmDelete": false,
     "explorer.sortOrder": "type",
