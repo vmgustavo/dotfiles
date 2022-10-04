@@ -4,6 +4,7 @@
   <property name="panels" type="array">
     <value type="int" value="0"/>
     <value type="int" value="1"/>
+    <value type="int" value="2"/>
     <property name="panel-0" type="empty">
       <property name="position" type="string" value="p=6;x=336;y=17"/>
       <property name="length" type="uint" value="100"/>
@@ -46,6 +47,22 @@
       <property name="nrows" type="uint" value="1"/>
       <property name="mode" type="uint" value="0"/>
     </property>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=10;x=2874;y=1315"/>
+      <property name="size" type="uint" value="40"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="length" type="uint" value="20"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="16"/>
+        <value type="int" value="18"/>
+        <value type="int" value="17"/>
+      </property>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="mode" type="uint" value="0"/>
+    </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="whiskermenu"/>
@@ -60,6 +77,7 @@
       <property name="size-max" type="uint" value="22"/>
       <property name="symbolic-icons" type="bool" value="true"/>
       <property name="known-items" type="array">
+        <value type="string" value="albert"/>
         <value type="string" value="nm-applet"/>
       </property>
       <property name="known-legacy-items" type="array">
@@ -102,7 +120,7 @@
       <property name="show-handle" type="bool" value="false"/>
       <property name="show-labels" type="bool" value="false"/>
       <property name="flat-buttons" type="bool" value="false"/>
-      <property name="sort-order" type="uint" value="4"/>
+      <property name="sort-order" type="uint" value="0"/>
       <property name="grouping" type="uint" value="1"/>
       <property name="include-all-monitors" type="bool" value="false"/>
     </property>
@@ -121,6 +139,22 @@
     </property>
     <property name="plugin-15" type="string" value="clock">
       <property name="digital-format" type="string" value="%A"/>
+    </property>
+    <property name="plugin-17" type="empty">
+      <property name="show-labels" type="bool" value="false"/>
+      <property name="include-all-monitors" type="bool" value="false"/>
+      <property name="grouping" type="uint" value="1"/>
+      <property name="sort-order" type="uint" value="0"/>
+      <property name="window-scrolling" type="bool" value="false"/>
+      <property name="show-handle" type="bool" value="false"/>
+    </property>
+    <property name="plugin-16" type="empty">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-18" type="empty">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
     </property>
   </property>
   <property name="configver" type="int" value="2"/>
