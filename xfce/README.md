@@ -6,3 +6,9 @@
 
 * Copy files within `terminal/` to `~/.config/xfce4/xfconf/terminal`
 * Copy files within `xfce-perchannel-xml/` to `~/.config/xfce4/xfconf/xfce-perchannel-xml`
+
+## Restart Panel
+
+```
+xfce4-panel -r
+```
